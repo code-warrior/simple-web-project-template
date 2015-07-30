@@ -6,6 +6,6 @@ This template contains…
       `.gitignore`
       `css`
       `css/base.css`
-      `css/mains.css`
+      `css/main.css`
       `sass`
       `img`
